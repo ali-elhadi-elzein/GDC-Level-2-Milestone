@@ -1,6 +1,3 @@
-from copy import deepcopy
-
-
 class TasksCommand:
     TASKS_FILE = "tasks.txt"
     COMPLETED_TASKS_FILE = "completed.txt"
